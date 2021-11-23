@@ -1,0 +1,7 @@
+WIFI accountÅ:JenkinsWifi,
+WIFI password:Jenkins31!,
+Settings:1,
+
+WIFIÕËºÅ:ANYCUBIC,
+WIFIÃÜÂë:NONE,
+ÓĞÎŞÃÜÂë:0,
